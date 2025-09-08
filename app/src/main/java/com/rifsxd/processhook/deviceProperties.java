@@ -37,16 +37,16 @@ public final class deviceProperties {
     public static final deviceInfo ROG_PHONE_8 = new deviceInfo(
         "asus",             // Manufacturer
         "asus",             // Brand
-        "WW_AI2401",        // Product
+        "WW_AI2501",        // Product
         "AI2401",           // Device
-        "ASUS_AI2401",      // Model
+        "ASUS_AI2501",      // Model
         "qcom",             // Hardware
-        null,               // Board (optional, null if not available)
+        "sun,               // Board (optional, null if not available)
         null,               // Bootloader (optional)
         "165",              // Refresh rate (Hz)
-        null,               // Username (optional)
-        null,               // Hostname (optional)
-        null                // Fingerprint (optional)
+        "android",               // Username (optional)
+        "mcrd1-30",               // Hostname (optional)
+        "asus/WWAI2501/ASUSAI2501:15/AQ3A.240829.003/35.1810.1810.411-0:user/release-keys"                // Fingerprint (optional)
     );
 
     // Samsung Galaxy S24 Ultra Profile
