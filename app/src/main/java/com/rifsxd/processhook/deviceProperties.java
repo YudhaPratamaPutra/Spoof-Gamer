@@ -178,6 +178,8 @@ public final class deviceProperties {
             "net.wargaming.wot.blitz",
             "com.pearlabyss.blackdesertm.gl",
             "com.pearlabyss.blackdesertm",
+            "com.mobile.legends",
+            "com.cygames.umamusume",
             "com.madfingergames.legends"
         };
         addToDeviceMap(rogPhoneApps, ROG_PHONE_8);
