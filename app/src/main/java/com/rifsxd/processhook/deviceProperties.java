@@ -41,7 +41,7 @@ public final class deviceProperties {
         "AI2401",           // Device
         "ASUS_AI2501",      // Model
         "qcom",             // Hardware
-        "sun,               // Board (optional, null if not available)
+        "sun",               // Board (optional, null if not available)
         null,               // Bootloader (optional)
         "165",              // Refresh rate (Hz)
         "android",               // Username (optional)
